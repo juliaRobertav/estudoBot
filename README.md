@@ -1,9 +1,10 @@
 ## Classe Robot em java
 
-##### https://www.devmedia.com.br/utilizando-a-classe-robot-em-java/2363
-##### https://sites.google.com/view/javacommiza/home/automa%C3%A7%C3%A3o/classe-robot
+[Classe Robot](https://www.devmedia.com.br/utilizando-a-classe-robot-em-java/2363)
 
-##### https://acervolima.com/classe-de-robo-em-java-awt/
+[Exemplo](https://sites.google.com/view/javacommiza/home/automa%C3%A7%C3%A3o/classe-robot)
+
+[Extra](https://acervolima.com/classe-de-robo-em-java-awt/)
 
 Utilizando a classe Robot em Java
 
